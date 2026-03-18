@@ -1,4 +1,4 @@
-<h1 align="center">Avian code</h1>
+<h1 align="center">🦉 Avian code</h1>
 
 <div align="center">
   <h3>Programming languages</h3>
